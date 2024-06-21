@@ -1,0 +1,103 @@
+html {
+    background-color: #a7c3ff;
+    color: #0e09b1;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.destaque {
+    color: #500068;
+}
+
+p {
+    text-indent: 1em;
+}
+
+h1 {
+    text-align: center;
+    font-size: 1.8rem;
+}
+
+h2 {
+    text-align: center;
+    font-size: 1.4rem;
+}
+
+h3 {
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+#zen-summary {
+    text-align: center;
+}
+
+#zen-supporting p {
+    line-height: 1.5;
+}
+
+abbr {
+    font-variant: small-caps;
+}
+
+.page-wrapper {
+    width: 80%;
+    max-width: 1280px;
+    margin: auto;
+}
+
+#zen-intro {
+    height: 550px;
+}
+
+#design-archives {
+    display: none;
+}
+
+#zen-intro header {
+    background-color: #0e09b1;
+    color: #a7c3ff;
+}
+
+#zen-intro header h1 {
+    display: inline-block;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+#zen-intro header h2 {
+    display: inline-block;
+}
+
+aside ul {
+    list-style-type: none;
+}
+
+aside ul li {
+    margin: 1em;
+    text-align: center;
+}
+
+.main footer {
+    margin: 4%;
+}
+
+.main footer a {
+    border: solid 2px;
+    display: inline-block;
+}
+.page-wrapper{
+    position: relative;
+}
+.explanation{
+    width: 60%;
+    border-right: #1f295c solid 1px;
+    padding-right: 2%;
+}
+#design-selection{
+    position: absolute;
+    top: 560px;
+    left: 62%;
+    padding-left: 1%;
+    padding-right: 1%;
+}
